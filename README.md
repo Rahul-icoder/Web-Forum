@@ -1,13 +1,13 @@
-# Web-Forum
+# Web-Forum <br/>
 
-1 Sign-up to Post a Query and  Answer Query. 
-2 Then Login.
+1) Sign-up to Post a Query and  Answer Query. <br/>
+2) Then Login. <br/>
 
-There are only four category Pyhton , Javascript , PHP and Linux .
-To add more category, only add category in database.
+There are only four category Pyhton , Javascript , PHP and Linux . <br/>
+To add more category, only add category in database. <br/>
 
-#security
- Hash Password are kept in Database.
- Only one user can login with there email.
+#security <br/>
+ Hash Password are kept in Database. <br/>
+ Only one user can login with there email. <br/>
  
-![name-of-you-image]()
+![name-of-you-image](https://raw.githubusercontent.com/Rahul-icoder/Web-Forum/main/Forum_Home_shot.png)
